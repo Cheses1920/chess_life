@@ -1,0 +1,21 @@
+body{
+  background-image: linear-gradient(100deg, #f178a1 5%, #8fedf4);
+  color: rgb(6, 172, 114);
+  text-align: center;
+  font-weight: bold;
+
+}
+#s {
+  transition: background-image 0.5s ease-out 0.5ms;
+  font-weight: bold;
+  color: #e7eded;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  height: 50px;
+  width: 90px;
+  font-size: 100%;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 8px;
+  background-color: #f178a1;
+}
